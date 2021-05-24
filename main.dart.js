@@ -55917,7 +55917,7 @@ F.Ba.prototype={
 P:function(a,b){var s=null,r=t.fQ,q=B.a8s(H.c([new Q.AJ(L.a4P("Sports app",s,s),new F.RU(),s)],r)),p=T.h7(s,100,s),o=T.h7(U.Aj("assets/bilguun.jpg"),200,200),n=T.h7(s,50,s),m=T.ym(L.a4P("Skima",s,A.us(s,s,s,s,s,s,s,s,s,s,s,40,s,s,s,s,!0,s,s,s,s,s,s)),s,s)
 return new M.tC(new E.pK(0,C.hz,new T.dQ(C.m,s,s),new P.X(1/0,56),s),B.a8s(H.c([p,o,n,m,T.ym(new O.tP("https://bilguun1001.github.io/",C.D2,s),s,s),T.ajs(H.c([new F.Aa(s),T.h7(s,s,20),new F.Em(s),T.h7(s,s,20),new F.B0(s),T.h7(s,s,20),new F.DT(s)],r),C.pM,C.qF,C.qG)],r)),new Z.zy(q,s),s)}}
 F.RU.prototype={
-$0:function(){return C.a4.nS(window,"https://suragch.dev/apps/mongolcode/","Sports app")},
+$0:function(){return C.a4.nS(window,"https://play.google.com/store/apps/details?id=com.bilguun.skima&fbclid=IwAR2NIjfYlVqZq0YJG8jmW_gMYs2tx33fsdMz9fyWyoPtnJ1IBa0DGrJSWzY","Sports app")},
 $S:33}
 F.Aa.prototype={
 P:function(a,b){return B.mT(null,U.Aj("assets/github.png"),30,new F.PH(),null)}}
